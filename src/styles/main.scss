@@ -178,6 +178,7 @@ body{
                 }
                 &::-webkit-scrollbar-thumb{
                     background-color: rgba($color: $color1, $alpha: 0.8);
+                    border-radius: 4px;
                 }
 
                 .projeto{
